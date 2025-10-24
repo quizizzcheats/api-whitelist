@@ -5,5 +5,12 @@
     "expiration": "2025-10-24T09:23:45.452269",
     "hwid": "6e40dcd320e35963f9f4f1021eca1918596e141d3723863e54acf122a1120733",
     "created_at": "2025-10-24T08:22:31.938899"
+  },
+  "1284325648688611341": {
+    "license_key": "FREE6MSS1LOCJ568UJIB4SYOJ",
+    "activated": false,
+    "expiration": null,
+    "hwid": null,
+    "created_at": "2025-10-24T09:43:13.507307"
   }
 }
