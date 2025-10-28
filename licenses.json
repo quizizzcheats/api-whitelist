@@ -5,5 +5,12 @@
     "expiration": null,
     "hwid": null,
     "created_at": "2025-10-28T11:18:42.619112"
+  },
+  "1337992333840482436": {
+    "license_key": "FREEN47WWYOZ5L23DB5M4MM81",
+    "activated": false,
+    "expiration": null,
+    "hwid": null,
+    "created_at": "2025-10-28T11:22:22.025010"
   }
 }
